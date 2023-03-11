@@ -4,7 +4,7 @@ import Header from "./header";
 import AddContact from "./AddContact";
 import ContactList from "./ContactList";
 
-
+console.log('JavaScript is running');
 
 function App() {
 
